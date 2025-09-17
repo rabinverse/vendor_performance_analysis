@@ -1,0 +1,5 @@
+outs:
+- md5: 426d0b26295b51554b077f9b8bffb305
+  size: 30550
+  hash: md5
+  path: vendor_performance_analysis.ipynb
