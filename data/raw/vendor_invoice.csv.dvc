@@ -1,0 +1,5 @@
+outs:
+- md5: 013a7cfd990621626e8dd1ad3598d57c
+  size: 509927
+  hash: md5
+  path: vendor_invoice.csv

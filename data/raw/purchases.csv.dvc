@@ -1,0 +1,5 @@
+outs:
+- md5: 56b93378c9909d49de733ac0f59329f7
+  size: 361575302
+  hash: md5
+  path: purchases.csv

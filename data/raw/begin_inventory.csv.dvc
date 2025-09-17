@@ -1,0 +1,5 @@
+outs:
+- md5: 78c385f72d50908ca7652f41ebabd099
+  size: 17447719
+  hash: md5
+  path: begin_inventory.csv
